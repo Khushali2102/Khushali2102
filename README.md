@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khushali Sheth</h1>
 <h3 align="center">Aspiring Business Analyst | Agile & Scrum Methodologies</h3>
 
-- 🔭 Masters of Science in **Information Systems**
+- 🔭 IT Analyst at New Jersey Courts| Masters of Science in **Information Systems**
 
-- 🌱 I’m currently learning **Salesforce CRM**
-
-- 👯 Top Skills **JIRA, SQL, Excel PowerBI, SAP S/4HANA**
+- 👯 Top Skills **JIRA, SQL, Excel, PowerBI, SAP S/4HANA**
 
 - 💬 Ask me about **Project Management - Agile, Scrum, Business Process Improvement, Workflow Optimization**
 
